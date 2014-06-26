@@ -30,6 +30,8 @@
     - src/**
   :support:
     - test/support
+  :include:
+    - ../external_module/include
 
 :defines:
   # in order to add common defines:
